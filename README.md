@@ -1,6 +1,6 @@
 # naivechain
 
-a simple Blockchain inspired by https://github.com/lhartikk/naivechain
+a simple Blockchain inspired by https://github.com/kofj/naivechain
 
 ## First Node
 
