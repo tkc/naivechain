@@ -14,6 +14,8 @@ go run main.go
 go run main.go -api :3002 -p2p :6002 -peers ws://localhost:6001
 ```
 
+## Show blocks
+
 ```bash
 $ curl http://localhost:3001/blocks
 ```
