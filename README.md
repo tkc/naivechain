@@ -7,13 +7,13 @@ Implementation of a simple block chain for learning.
 
 
 
-## First Node
+## Run First Node
 
 ```bash
 go run main.go 
 ```
 
-## Second Node
+## Run Second Node
 
 ```bash
 go run main.go -api :3002 -p2p :6002 -peers ws://localhost:6001
