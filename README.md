@@ -2,6 +2,11 @@
 
 a simple Blockchain inspired by https://github.com/kofj/naivechain
 
+Implementation of a simple block chain for learning.
+
+
+
+
 ## First Node
 
 ```bash
